@@ -14,7 +14,7 @@ export function Sidebar(){
                                                     Default sorting
                                                 </li>
                                                 <li data-value="1" className="option">
-                                                    Sort by popularity
+                                                    Sort by popularityjuhdufhudf
                                                 </li>
                                                 <li data-value="1" className="option">
                                                     Sort by average rating
