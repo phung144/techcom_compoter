@@ -7,7 +7,7 @@ export function Sidebar(){
                                     <div className="form-clt">
                                         <div className="nice-select" tabIndex={0}>
                                             <span className="current">
-                                                Default Sorting
+                                                Default Sortinggg
                                             </span>
                                             <ul className="list">
                                                 <li data-value="1" className="option selected focus">
